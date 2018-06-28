@@ -28,7 +28,7 @@ class MainVC: UIViewController {
     }
     
     @objc func calculate() {
-        print("We got here")
+//        print("We got here")
     }
 
     override func didReceiveMemoryWarning() {
